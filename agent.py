@@ -27,7 +27,7 @@ Operational Rules:
 
 root_agent = Agent(
     name="engineer_assistant",
-    model="gemini-2.0-flash",
+    model="gemini-3.8-flash",
     description="Autonomous lead engineer assistant equipped with terminal execution and file operations.",
     instruction=SYSTEM_INSTRUCTION,
     tools=[
