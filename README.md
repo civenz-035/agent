@@ -43,6 +43,6 @@ adk api_server ~/agent
 
 The agent uses **Google Cloud Vertex AI Enterprise Backend**:
 * **Project**: `gen-lang-client-0021900495`
-* **Location**: `us-central1`
+* **Location**: `global`
 * **Credentials**: Application Default Credentials (`~/.config/gcloud/application_default_credentials.json`)
 * **Billing Account**: Tied to your Google Cloud credit.
