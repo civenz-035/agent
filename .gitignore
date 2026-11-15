@@ -27,6 +27,9 @@ wheels/
 venv/
 ENV/
 
+# ADK local sessions
+.adk/
+
 # Sensitive files
 .env
 *.pem
